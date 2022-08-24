@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\bin\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.exe
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\bin\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.deps.json
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\bin\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.runtimeconfig.json
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\bin\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.runtimeconfig.dev.json
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\bin\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.dll
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\bin\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.pdb
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.AssemblyInfo.cs
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.dll
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.pdb
+C:\Users\user\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionExercise.genruntimeconfig.cache
